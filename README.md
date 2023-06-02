@@ -79,8 +79,8 @@ Example of usage
  # Changing data of the document
  new_data = {
     "int": 999,
-     "text": "New information",
-     "choices": "second option"
+    "text": "New information",
+    "choices": "second option"
  } 
  db_doc.set(new_data)
  
